@@ -1,0 +1,151 @@
+﻿@using InfoTrack.Core.Contants
+@model InfoTrack.Web.Models.RankingModel
+
+@{
+    ViewData["Title"] = "Home Page";
+    // bool invalidSite = false;
+    var error = TempData["Error"] as string;
+}
+
+<style>
+    .grid-divider {
+        margin-top: 20px;
+    }
+
+    .track {
+        background-color: aqua !important;
+    }
+
+    .cardlimit {
+        overflow: auto;
+        height: 500px;
+    }
+
+    span[class*="fa-sort-up"] {
+        background-color: green;
+    }
+
+    span[class*="fa-sort-down"] {
+        background-color: red;
+    }
+</style>
+
+<div class="text-center">
+    @*    <h2>Search</h2>*@
+
+    <div class="container">
+        @if (!string.IsNullOrEmpty(error))
+        {
+            <div class="alert alert-danger" role="alert">Error: @error</div>
+        }
+
+        @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+        {
+            <div class="form-row">
+                <div class="col-md-5">
+                    @Html.TextBoxFor(m => m.engineUrl, new { @class = "form-control", placeholder = "Enter the search engine domain" })
+                </div>
+                <div class="col-md-5">
+                    @Html.TextBoxFor(m => m.keyWord, new { @class = "form-control", placeholder = "Enter the search keyword" })
+                </div>
+                <div class="col-md-2">
+                    <button id="search-button" class="btn btn-secondary form-control" type="submit">Search</button>
+                </div>
+            </div>
+        }
+
+    </div>
+
+    @*    <div class="container text-center grid-divider">
+        <div class="row">
+        <div class="col-md-4 offset-md-4">
+
+        <div class="card">
+        <div class="card-header">
+        Ranking on Search Engine
+        </div>
+        <div class="card-body">
+        <h2 class="card-title">
+        <span id="rank">@Model?.unFiltered</span>
+        </h2>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>*@
+
+    <div class="container grid-divider">
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-header">
+                        Ranking on Search Engine
+                        <span><b>@Model.SearchEngineIdentity</b></span>
+                    </div>
+                    <div class="card-body">
+                        <h2 class="card-title">
+                            <span id="rank">@Model.filtered</span>
+                        </h2>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-header">
+                        Top Ranking Site
+                    </div>
+                    <div class="card-body cardlimit">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Rank#</th>
+                                    <th>Name</th>
+                                    <th>Progress</th>
+                                    <th>Trend</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @{
+                                    foreach (var site in Model.Trending)
+                                    {
+
+                                        <tr>    
+                                            <td>@site.Position</td>
+                                            <td>@site.Domain </td>
+                                            <td>@site.Progress</td>
+                                            <td title="@site.Trend.ToString()">
+                                                @{
+                                                    if (site.Trend == Refrence.Trend.Up)
+                                                    {
+                                                        <span style="color:green"> <i class="fas fa-sort-up  fa-2x"></i></span>
+                                                    }
+                                                    else if (site.Trend == Refrence.Trend.Down)
+                                                    {
+                                                        <span style="color: red"> <i class="fas fa-sort-down fa-2x"></i></span>
+                                                    }
+                                                    else if (site.Trend == Refrence.Trend.Flat)
+                                                    {
+                                                        <span> <i class="fas fa-square"></i></span>
+                                                    }
+                                                    else
+                                                    {
+                                                        <span> <i class="fas fa-question"></i></span>
+                                                    }
+                                                }
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

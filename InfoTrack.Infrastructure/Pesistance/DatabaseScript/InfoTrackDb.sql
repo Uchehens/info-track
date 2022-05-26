@@ -1,0 +1,144 @@
+USE [master]
+GO
+/****** Object:  Database [InfoTrack]    Script Date: 8/30/2021 10:31:39 AM ******/
+CREATE DATABASE [InfoTrack]
+GO
+ALTER DATABASE [InfoTrack] SET COMPATIBILITY_LEVEL = 120
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [InfoTrack].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [InfoTrack] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [InfoTrack] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [InfoTrack] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [InfoTrack] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [InfoTrack] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [InfoTrack] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [InfoTrack] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [InfoTrack] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [InfoTrack] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [InfoTrack] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [InfoTrack] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [InfoTrack] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [InfoTrack] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [InfoTrack] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [InfoTrack] SET  DISABLE_BROKER 
+GO
+ALTER DATABASE [InfoTrack] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [InfoTrack] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [InfoTrack] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [InfoTrack] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [InfoTrack] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [InfoTrack] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [InfoTrack] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [InfoTrack] SET RECOVERY SIMPLE 
+GO
+ALTER DATABASE [InfoTrack] SET  MULTI_USER 
+GO
+ALTER DATABASE [InfoTrack] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [InfoTrack] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [InfoTrack] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [InfoTrack] SET TARGET_RECOVERY_TIME = 0 SECONDS 
+GO
+ALTER DATABASE [InfoTrack] SET DELAYED_DURABILITY = DISABLED 
+GO
+USE [InfoTrack]
+GO
+/****** Object:  Table [dbo].[__EFMigrationsHistory]    Script Date: 8/30/2021 10:31:39 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[__EFMigrationsHistory](
+	[MigrationId] [nvarchar](150) NOT NULL,
+	[ProductVersion] [nvarchar](32) NOT NULL,
+ CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY CLUSTERED 
+(
+	[MigrationId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[SearchEngines]    Script Date: 8/30/2021 10:31:39 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[SearchEngines](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Identifier] [nvarchar](100) NULL,
+	[Domain] [nvarchar](100) NULL,
+	[Method] [nvarchar](10) NULL,
+	[Query] [nvarchar](100) NULL,
+	[Accept] [nvarchar](100) NULL,
+	[RequestPayload] [nvarchar](2000) NULL,
+	[Cookie] [nvarchar](2000) NULL,
+	[IsActive] [bit] NOT NULL,
+ CONSTRAINT [PK_SearchEngines] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Trends]    Script Date: 8/30/2021 10:31:39 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Trends](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Domain] [nvarchar](100) NULL,
+	[Identity] [nvarchar](100) NOT NULL,
+	[FullUrl] [nvarchar](4000) NULL,
+	[DateAdded] [datetime2](7) NOT NULL,
+	[Position] [int] NULL,
+	[State] [int] NOT NULL,
+ CONSTRAINT [PK_Trends] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20210829093353_InitialDbCreation', N'5.0.9')
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20210829171412_updated', N'5.0.9')
+SET IDENTITY_INSERT [dbo].[SearchEngines] ON 
+
+INSERT [dbo].[SearchEngines] ([Id], [Identifier], [Domain], [Method], [Query], [Accept], [RequestPayload], [Cookie], [IsActive]) VALUES (1, N'google.co.uk', N'google.co.uk', N'GET', N'https://www.google.co.uk/search?num=100&q={0}', N'text/plain', N'', N'1P_JAR=2021-08-25-19; CONSENT=YES+srp.gws-20210816-0-RC3.en+FX+146; NID=222=AmjNKzCPWZjOOlug3HXE063uyLK02Twke1WC05QsXNsr6CAFLNvKL9xuUtkHniPmKPG-HfhrVSYYID4GiQ1WQxu5gUahwchMX9DWAR7TvyNE2YgowxoLZeGMnSnq3tTjfmUCVGmd9QMes__5rpjG6bDDmo6YiEE6so4phO2Vyrc', 1)
+GO
+INSERT [dbo].[SearchEngines] ([Id], [Identifier], [Domain], [Method], [Query], [Accept], [RequestPayload], [Cookie], [IsActive]) VALUES (2, N'google.com', N'google.com', N'GET', N'https://www.google.com/search?num=100&q={0}', N'text/plain', N'', N'1P_JAR=2021-08-25-19; CONSENT=YES+srp.gws-20210816-0-RC3.en+FX+146; NID=222=AmjNKzCPWZjOOlug3HXE063uyLK02Twke1WC05QsXNsr6CAFLNvKL9xuUtkHniPmKPG-HfhrVSYYID4GiQ1WQxu5gUahwchMX9DWAR7TvyNE2YgowxoLZeGMnSnq3tTjfmUCVGmd9QMes__5rpjG6bDDmo6YiEE6so4phO2Vyrc', 1)
+GO
+INSERT [dbo].[SearchEngines] ([Id], [Identifier], [Domain], [Method], [Query], [Accept], [RequestPayload], [Cookie], [IsActive]) VALUES (3, N'bing', N'bing.com', N'GET', N'https://www.bing.com/search?q={0}&qs=HS&sc=1-0&FORM=QBLH&sp=1&count=50', N'text/plain', NULL, N'MUID=2FDF3905156463D107E329A614DF621C; SRCHD=AF=PERE; SRCHHPGUSR=SRCHLANG=en; SRCHUID=V=2&GUID=9FD0F8D0B44E48D4BDC1A69871C5FE1F&dmnchg=1; SRCHUSR=DOB=20210830; _EDGE_S=F=1&SID=2E1C34D45F876279380B24775E3C63C9; _EDGE_V=1; _SS=SID=2E1C34D45F876279380B24775E3C63C9; MUIDB=2FDF3905156463D107E329A614DF621C', 1)
+GO
+
+SET IDENTITY_INSERT [dbo].[SearchEngines] OFF
+ALTER TABLE [dbo].[Trends] ADD  DEFAULT ((0)) FOR [State]
+GO
+USE [master]
+GO
+ALTER DATABASE [InfoTrack] SET  READ_WRITE 
+GO

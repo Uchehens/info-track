@@ -1,0 +1,20 @@
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Core\bin\Debug\netcoreapp3.1\InfoTrack.Core.deps.json
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Core\bin\Debug\netcoreapp3.1\InfoTrack.Core.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Core\bin\Debug\netcoreapp3.1\InfoTrack.Core.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.AssemblyInfoInputs.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.AssemblyInfo.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.csproj.AssemblyReference.cache
+D:\Algorithem\New folder\InfoTrack.Core\bin\Debug\netcoreapp3.1\InfoTrack.Core.deps.json
+D:\Algorithem\New folder\InfoTrack.Core\bin\Debug\netcoreapp3.1\InfoTrack.Core.dll
+D:\Algorithem\New folder\InfoTrack.Core\bin\Debug\netcoreapp3.1\InfoTrack.Core.pdb
+D:\Algorithem\New folder\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.csproj.AssemblyReference.cache
+D:\Algorithem\New folder\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithem\New folder\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.AssemblyInfoInputs.cache
+D:\Algorithem\New folder\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.AssemblyInfo.cs
+D:\Algorithem\New folder\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.csproj.CoreCompileInputs.cache
+D:\Algorithem\New folder\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.dll
+D:\Algorithem\New folder\InfoTrack.Core\obj\Debug\netcoreapp3.1\InfoTrack.Core.pdb

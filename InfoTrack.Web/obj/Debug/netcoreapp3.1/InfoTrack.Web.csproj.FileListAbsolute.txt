@@ -1,0 +1,166 @@
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.AssemblyInfoInputs.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.AssemblyInfo.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.RazorAssemblyInfo.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.RazorAssemblyInfo.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.csproj.AssemblyReference.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.exe
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.deps.json
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.runtimeconfig.json
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.runtimeconfig.dev.json
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.Views.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.Views.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Core.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Core.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\staticwebassets\InfoTrack.Web.StaticWebAssets.Manifest.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\InfoTrack.Web.styles.css
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.TagHelpers.input.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.TagHelpers.output.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.RazorCoreGenerate.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.Views.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.csproj.CopyComplete
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.genruntimeconfig.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Web\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\libman.json
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.exe
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.deps.json
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.runtimeconfig.json
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.runtimeconfig.dev.json
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.pdb
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.Views.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Web.Views.pdb
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Core.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.dll
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Core.pdb
+D:\Algorithem\New folder\InfoTrack.Web\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.pdb
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.csproj.AssemblyReference.cache
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.AssemblyInfoInputs.cache
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.AssemblyInfo.cs
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.csproj.CoreCompileInputs.cache
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.RazorAssemblyInfo.cache
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.RazorAssemblyInfo.cs
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\staticwebassets\InfoTrack.Web.StaticWebAssets.Manifest.cache
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\InfoTrack.Web.styles.css
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.TagHelpers.input.cache
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.TagHelpers.output.cache
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.RazorCoreGenerate.cache
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.RazorTargetAssemblyInfo.cache
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.RazorTargetAssemblyInfo.cs
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.Views.pdb
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.csproj.CopyComplete
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.dll
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.pdb
+D:\Algorithem\New folder\InfoTrack.Web\obj\Debug\netcoreapp3.1\InfoTrack.Web.genruntimeconfig.cache

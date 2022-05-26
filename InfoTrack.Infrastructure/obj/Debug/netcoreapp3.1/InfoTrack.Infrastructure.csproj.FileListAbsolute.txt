@@ -1,0 +1,32 @@
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.AssemblyInfo.cs
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.deps.json
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.runtimeconfig.json
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.runtimeconfig.dev.json
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Core.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Core.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.csproj.CopyComplete
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.dll
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.pdb
+C:\Users\Lisa\source\repos\InfoTrack\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.genruntimeconfig.cache
+D:\Algorithem\New folder\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.deps.json
+D:\Algorithem\New folder\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.runtimeconfig.json
+D:\Algorithem\New folder\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.runtimeconfig.dev.json
+D:\Algorithem\New folder\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.dll
+D:\Algorithem\New folder\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Infrastructure.pdb
+D:\Algorithem\New folder\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Core.dll
+D:\Algorithem\New folder\InfoTrack.Infrastructure\bin\Debug\netcoreapp3.1\InfoTrack.Core.pdb
+D:\Algorithem\New folder\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.csproj.AssemblyReference.cache
+D:\Algorithem\New folder\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithem\New folder\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.AssemblyInfoInputs.cache
+D:\Algorithem\New folder\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.AssemblyInfo.cs
+D:\Algorithem\New folder\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Algorithem\New folder\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.csproj.CopyComplete
+D:\Algorithem\New folder\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.dll
+D:\Algorithem\New folder\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.pdb
+D:\Algorithem\New folder\InfoTrack.Infrastructure\obj\Debug\netcoreapp3.1\InfoTrack.Infrastructure.genruntimeconfig.cache
